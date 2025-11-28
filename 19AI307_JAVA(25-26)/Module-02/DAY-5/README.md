@@ -21,8 +21,8 @@ a static method to display information, and calculates the sum of two numbers en
  ```
 /*
 Program to implement a Access Modifiers using Java
-Developed by: POPURI SRAVANI
-RegisterNumber:  212223240117
+Developed by: Karthick Raja K
+RegisterNumber:  212223240066
 */
 ```
 
@@ -70,4 +70,5 @@ class prog {
 
 ## RESULT:
 The program successfully demonstrates the use of instance and static methods by displaying a message through the static method and printing the sum of two numbers using the instance method.
+
 

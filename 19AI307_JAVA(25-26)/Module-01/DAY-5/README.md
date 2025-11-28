@@ -20,8 +20,8 @@ Write a Java program to count the frequency of a given character in a string.
  ```
 /*
 Program to implement a Strings and Math Function using Java
-Developed by: POPURI SRAVANI
-RegisterNumber:  212223240117
+Developed by: Karthick Raja K
+RegisterNumber:  212223240066
 */
 ```
 
@@ -59,4 +59,5 @@ public class A
 
 ## RESULT:
 The program successfully counts and displays the number of times a given character occurs in the input string.
+
 

@@ -17,8 +17,8 @@ To write a Java program that reverses a given number using a while loop.
  ```
 /*
 Program to implement a Looping Statement using Java
-Developed by:  POPURI SRAVANI
-RegisterNumber:  21223240117
+Developed by:  Karthick Raja K
+RegisterNumber:  21223240066
 */
 ```
 
@@ -57,4 +57,5 @@ public class Sample
 
 ## RESULT:
 The program successfully reverses the given number using a while loop and displays the reversed output.
+
 

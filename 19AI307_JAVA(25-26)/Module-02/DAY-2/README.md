@@ -17,8 +17,8 @@ another method to compute the cube by using the square method.
  ```
 /*
 Program to implement a Methods using Java
-Developed by:Popuri Sravani 
-RegisterNumber: 212223240117 
+Developed by: Karthick Raja K
+RegisterNumber: 212223240066
 */
 ```
 
@@ -65,4 +65,5 @@ public class Display
 
 ## RESULT:
 The program successfully calculates the cube of the input number using method calling and displays the output.
+
 

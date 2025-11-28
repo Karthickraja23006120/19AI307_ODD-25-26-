@@ -20,8 +20,8 @@ To write a Java program that reads a number in string format, converts it into a
  ```
 /*
 Program to implement a Wrapper Class using Java
-Developed by: POPURI SRAVANI
-RegisterNumber:  212223240117
+Developed by: Karthick Raja K
+RegisterNumber:  212223240066
 */
 ```
 
@@ -56,4 +56,5 @@ public class Main
 
 ## RESULT:
 The program successfully reads a numeric string, converts it to a double value, computes its square root, and displays the result.
+
 

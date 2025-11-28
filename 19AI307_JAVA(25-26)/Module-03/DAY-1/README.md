@@ -27,8 +27,8 @@ and compute the final payable amount based on purchase weight and gold rate per 
  ```
 /*
 Program to implement a Inheritance and Aggregation using Java
-Developed by: POPURI SRAVANI
-RegisterNumber:  212223240117
+Developed by: Karthick Raja K
+RegisterNumber:  212223240066
 */
 ```
 
@@ -162,4 +162,5 @@ General customers
 Regular customers (with 2% discount)
 Premium customers (with 5% discount and 1% cashback)
 It displays complete details including customer type, discount applied, final price, and cashback for premium customers.
+
 

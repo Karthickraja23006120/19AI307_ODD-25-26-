@@ -45,8 +45,8 @@ a <= b
  ```
 
 Program to implement variables and Operators using Java
-Developed by: POPURI SRAVANI
-RegisterNumber:  212223240117
+Developed by: Karthick Raja K
+RegisterNumber:  212223240066
 
 ```
 
@@ -74,6 +74,7 @@ public class Sample
 
 ## Result:
 The program successfully reads two integers and displays the results of all relational operators (==, !=, >, <, >=, <=) correctly based on the given inputs.
+
 
 
 

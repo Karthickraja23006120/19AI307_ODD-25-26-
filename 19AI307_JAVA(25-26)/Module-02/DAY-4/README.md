@@ -21,8 +21,8 @@ To write a Java program that creates an Employee object using a parameterized co
  ```
 /*
 Program to implement a Variable scope and Constructor using Java
-Developed by: POPURI SRAVANI
-RegisterNumber:  212223240117
+Developed by: Karthick Raja K
+RegisterNumber:  212223240066
 */
 ```
 
@@ -85,4 +85,5 @@ public class Main
 
 ## RESULT:
 The program successfully creates an employee object using user input and displays the employee's ID, name, and salary using getter methods.
+
 

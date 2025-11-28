@@ -19,8 +19,8 @@ To write user information (name, age, email) into a text file using FileWriter a
  ```
 /*
 Program to implement a File Handling using Java
-Developed by: Popuri sravani
-RegisterNumber:  
+Developed by: Karthick Raja K
+RegisterNumber:  212223240066
 */
 ```
 
@@ -81,4 +81,5 @@ public class main
 
 ## RESULT:
 The program successfully stores user details into a text file and reads them back line by line, displaying the stored content in the console.
+
 

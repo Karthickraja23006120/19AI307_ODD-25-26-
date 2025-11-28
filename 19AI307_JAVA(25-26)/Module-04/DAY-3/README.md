@@ -20,8 +20,8 @@ The program should accept book details from the user, store them inside a Librar
  ```
 /*
 Program to implement a Composition Concepts in Java
-Developed by: Popuri sravani
-RegisterNumber:  212223240117
+Developed by: Karthick Raja K
+RegisterNumber:  212223240066
 */
 ```
 
@@ -92,4 +92,5 @@ class Library {
 
 ## RESULT:
 The program successfully demonstrates composition by creating a Library object that holds multiple Book objects. It reads book details from the user, stores them inside the library, and displays all the books in a structured format.
+
 

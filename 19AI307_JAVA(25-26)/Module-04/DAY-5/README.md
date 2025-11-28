@@ -21,8 +21,8 @@ To implement a simple Student Management System using the MVC (Model–View–Co
  ```
 /*
 Program to implement a Behaviour Pattern using Java
-Developed by: popuri sravani
-RegisterNumber:  212223240117
+Developed by: Karthick Raja K
+RegisterNumber:  212223240066
 */
 ```
 
@@ -147,4 +147,5 @@ public class SchoolSystemMVC {
 
 ## RESULT:
 The program successfully demonstrates the MVC + DAO architecture for managing student data. It stores multiple student records, retrieves a student based on roll number, and displays the result through the view component.
+
 

@@ -21,8 +21,8 @@ To demonstrate stream chaining in Java by combining InputStreamReader and Buffer
  ```
 /*
 Program to implement a InputStreamReader using Java
-Developed by: Popuri sravani
-RegisterNumber:  212223240117
+Developed by: Karthick Raja K
+RegisterNumber:  212223240066
 */
 ```
 
@@ -68,4 +68,5 @@ public class ChainingStreamsExample {
 
 ## RESULT:
 The program successfully reads multiple lines of user input using chained input streams and prints the user details. It demonstrates effective use of BufferedReader wrapped around InputStreamReader for fast and efficient input handling.
+
 

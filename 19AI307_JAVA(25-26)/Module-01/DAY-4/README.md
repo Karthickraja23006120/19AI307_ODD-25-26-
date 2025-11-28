@@ -32,8 +32,8 @@ To write a Java program that performs a linear search on an array to find the in
  ```
 /*
 Program to implement a Array concept using Java
-Developed by: POPURI SRAVANI
-RegisterNumber:  212223240117
+Developed by: Karthick Raja K
+RegisterNumber:  212223240066
 */
 ```
 
@@ -69,6 +69,7 @@ public class Demo
 
 ## Result:
 The program successfully performs a linear search on the user-entered array and displays the index/indices where the target element is found. If the target does not exist in the array, it prints "Element not found".
+
 
 
 

@@ -25,8 +25,8 @@ To develop a Java program that decides whether a vehicle can move or must stop b
  ```
 /*
 Program to implement a Interface using Java
-Developed by:POPURI SRAVANI 
-RegisterNumber:  212223240117
+Developed by:Karthick Raja K
+RegisterNumber:  212223240066
 */
 ```
 
@@ -80,4 +80,5 @@ public class prog {
 
 ## RESULT:
 The program successfully determines whether a vehicle can move based on the signal color and controller type using interface-based polymorphism
+
 

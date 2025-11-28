@@ -22,8 +22,8 @@ Based on user input, the appropriate factory should generate the correct themed 
  ```
 /*
 Program to implement a Abstract Factory Pattern using Java
-Developed by: POPURI SRAVANI
-RegisterNumber:212223240117  
+Developed by: Karthick Raja K
+RegisterNumber:212223240066 
 */
 ```
 
@@ -141,4 +141,5 @@ Based on user input, the correct factory is selected, and it generates:
 A Dark Button and Dark Checkbox or
 A Light Button and Light Checkbox
 Both components are rendered in the output according to the selected theme.
+
 

@@ -25,8 +25,8 @@ To write a Java program that serializes a list of Student objects into a file an
  ```
 /*
 Program to implement a Serialization and Deserialization using Java
-Developed by:Popur sravani 
-RegisterNumber:212223240117  
+Developed by: Karthick Raja K
+RegisterNumber:212223240066  
 */
 ```
 
@@ -133,4 +133,5 @@ public class StudentSerializationUserInput {
 
 ## RESULT:
 The program successfully serializes a list of dynamically entered student objects into a file and retrieves them back through deserialization, verifying Java’s object persistence mechanism.
+
 

@@ -32,8 +32,8 @@ Next n lines: Each line contains the flight name.
  ```
 /*
 Program to implement a SOLID Principles in Java Program
-Developed by: Popuri sravani
-RegisterNumber:  212223240117
+Developed by: Karthick Raja K
+RegisterNumber:  212223240066
 */
 ```
 
@@ -90,4 +90,5 @@ public class prog {
 
 ## RESULT:
 The program successfully demonstrates the Singleton pattern by ensuring that all flights use the same Radar Control Tower instance. It registers each flight in order and displays the current total number of flights handled by the tower.
+
 

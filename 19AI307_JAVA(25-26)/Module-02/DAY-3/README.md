@@ -17,8 +17,8 @@ To write a Java program that creates a Person class with private attributes (nam
  ```
 /*
 Program to implement a Access Specifiers using Java
-Developed by: POPURI SRAVANI 
-RegisterNumber:  212223240117
+Developed by: Karthick Raja K
+RegisterNumber:  212223240066
 */
 ```
 
@@ -83,6 +83,7 @@ public class Main
 
 ## Result:
 The program successfully accepts the name, age, and country of a person, stores them using setter methods, and displays the values using getter methods.
+
 
 
 

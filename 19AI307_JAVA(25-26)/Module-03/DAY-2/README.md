@@ -25,8 +25,8 @@ To write a Java program that demonstrates method overloading by printing student
  ```
 /*
 Program to implement a Polymorphism using Java
-Developed by: POPURI SRAVANI
-RegisterNumber:  212223240117
+Developed by: Karthick Raja K
+RegisterNumber:  212223240066
 */
 ```
 
@@ -81,4 +81,5 @@ public class Student {
 
 ## RESULT:
 The program successfully demonstrates method overloading by printing student details using three different method signatures based on the number of arguments passed.
+
 

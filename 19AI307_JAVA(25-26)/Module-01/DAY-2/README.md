@@ -42,8 +42,8 @@ Print "Scalene".
  ```
 /*
 Program to implement a conditional statement using Java
-Developed by: POPURI SRAVANI
-RegisterNumber:  212223240117
+Developed by: Karthick Raja K
+RegisterNumber:  212223240066
 */
 ```
 
@@ -83,6 +83,7 @@ public class A
 ## RESULT:
 <br/>
 The program successfully reads three side lengths, applies triangle inequality rules, and correctly identifies the triangle as Equilateral, Isosceles, Scalene, or Not a triangle.
+
 
 
 

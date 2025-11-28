@@ -18,8 +18,8 @@ To write a Java program that demonstrates how a NullPointerException occurs when
  ```
 /*
 Program to implement a Exception Handling using Java
-Developed by: Popuri sravani
-RegisterNumber:  212223240117
+Developed by: Karthick Raja K
+RegisterNumber:  212223240066
 */
 ```
 
@@ -59,4 +59,5 @@ public class NullPointerIntegerExample {
 ## RESULT:
 
 The program successfully demonstrates how invoking a method on a null Integer object triggers a NullPointerException, and shows how the exception can be caught and handled gracefully by printing "Null Integer"
+
 

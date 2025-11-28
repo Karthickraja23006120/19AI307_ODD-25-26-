@@ -21,8 +21,8 @@ To write a Java program that creates a Vehicle class with attributes number, typ
  ```
 /*
 Program to implement a Class and Objects using Java
-Developed by: POPURI SRAVANI
-RegisterNumber:212223240117  
+Developed by: Karthick Raja K
+RegisterNumber:212223240066 
 */
 ```
 
@@ -72,4 +72,5 @@ public class Main {
 
 ## RESULT:
 The program successfully creates two Vehicle objects, reads their details from the user, and prints them in the specified format.
+
 
